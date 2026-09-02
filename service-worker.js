@@ -1,5 +1,5 @@
 const CACHE_PREFIX = 'xiaoyu-world-';
-const CACHE_NAME = `${CACHE_PREFIX}v1`;
+const CACHE_NAME = `${CACHE_PREFIX}v2`;
 const BASE_URL = new URL('./', self.location.href);
 const CORE_FILES = [
   '',
