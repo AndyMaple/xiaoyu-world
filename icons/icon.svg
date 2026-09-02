@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Xiaoyu’s World</title>
+  <desc id="description">A calm abstract globe drawn with pine green lines and one warm ochre destination point.</desc>
+  <rect width="512" height="512" fill="#f3f0e8"/>
+  <circle cx="256" cy="256" r="146" fill="#faf8f2" stroke="#315e50" stroke-width="10"/>
+  <path d="M110 256h292M131 197c70 29 180 29 250 0M131 315c70-29 180-29 250 0" fill="none" stroke="#315e50" stroke-width="7" stroke-linecap="round" opacity=".72"/>
+  <path d="M256 110c-43 35-69 88-69 146s26 111 69 146M256 110c43 35 69 88 69 146s-26 111-69 146" fill="none" stroke="#315e50" stroke-width="7" stroke-linecap="round" opacity=".72"/>
+  <circle cx="322" cy="199" r="16" fill="#bd9360" stroke="#faf8f2" stroke-width="7"/>
+</svg>
